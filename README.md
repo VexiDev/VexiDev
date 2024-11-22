@@ -24,8 +24,8 @@ X888n. 8888X  ?888>  :888'8888.    Y888L     ''888E` '>    <88888X   '?8  :888'8
   `*88 8888~ x88x.   8888.+"        `888N      888E          `"*88     X  8888.+"      8888  8888 
  ..<"  88*`  88888X  8888L       .u./"888&     888E     .xHHhx.."      !  8888L       .8888b.888P 
     ..XC.    `*8888k '8888c. .+ d888" Y888*"   888&    X88888888hx. ..!   '8888c. .+   ^Y8888*""  
-  :888888H.    `%88>  "88888%   ` "Y   Y"      R888"  !   "*888888888"     "88888%       `Y"      
- <  `"888888:    X"     "YP'                    ""           ^"***"`         "YP'                 
+ <:888888H.    `%88>  "88888%   ` "Y   Y"      R888"  !   "*888888888"     "88888%       `Y"      
+    `"888888:    X"     "YP'                    ""           ^"***"`         "YP'                 
        %888888x.-`                                                                                 
          ""**""                                                                                 
 ╭──────────────────────────────────────────────────────╮
@@ -38,16 +38,16 @@ X888n. 8888X  ?888>  :888'8888.    Y888L     ''888E` '>    <88888X   '?8  :888'8
 ╰───────────────────────────────╯  ╰────────────────────────╯  ╰────────────────────────────╯
 ╭── Languages ────────────────────────────────────╮  ╭── Infrastructure ──────────────────────────╮
 │ ◆ Experienced with                              │  │ ◆ Data Management                          │
-│ ├─● Python     » APIs, Data Processing          │  │ ├─● SQL        » PostgreSQL, H2            │
-│ ├─● Java       » Backend Development            │  │ ├─● NoSQL      » MongoDB                   │
-│ └─● Lua        » Configurations, Scripting      │  │ └─● Storage    » AWS S3                    │
-│                                                 │  │                                            │
-│ ◆ Familar With                                  │  │ ◆ Cloud & Deployment                       │
-│ ├─● JS/TS      » Systems Programming            │  │ ├─● Container  » Docker, Kubernetes        │
-│ ├─● HTML/CSS   » Frontend Development           │  │ └─● Hosting    » CPanel                    │
-│ └─● Bash/Zsh   » Shell Scripting                │  │                                            │
-│                                                 │  │                                            │
-│ ◆ Actively Learning                             │  │                                            │
+│ ├─● Python     » APIs, Data Processing          │  │ ├─● SQL        » SQL3, PostgreSQL, H2      │
+│ ├─● Java       » Backend Development            │  │ └─● NoSQL      » MongoDB                   │
+│ └─● Lua        » Configurations, Scripting      │  │                                            │
+│                                                 │  │ ◆ Deployment                               │
+│ ◆ Familar With                                  │  │ ├─● Container  » Docker, Kubernetes        │
+│ ├─● JS/TS      » Systems Programming            │  │ └─● Hosting    » CPanel                    │
+│ ├─● HTML/CSS   » Frontend Development           │  │                                            │
+│ └─● Bash/Zsh   » Shell Scripting                │  │ ◆ Cloud                                    │
+│                                                 │  │ ├─● Storage    » AWS S3                    │
+│ ◆ Actively Learning                             │  │ └─● Hosting    » CPanel                    │
 │ ├─● Go     » Systems Programming                │  │                                            │
 │ ├─● Rust   » Low-level Development              │  │                                            │
 │ └─● Fish   » Shell Scripting                    │  │                                            │
@@ -84,8 +84,8 @@ X888n. 8888X  ?888>  :888'8888.    Y888L     ''888E` '>    <88888X   '?8  :888'8
            `*88 8888~ x88x.   8888.+"        `888N      888E          `"*88     X  8888.+"      8888  8888 
           ..<"  88*`  88888X  8888L       .u./"888&     888E     .xHHhx.."      !  8888L       .8888b.888P 
              ..XC.    `*8888k '8888c. .+ d888" Y888*"   888&    X88888888hx. ..!   '8888c. .+   ^Y8888*""  
-           :888888H.    `%88>  "88888%   ` "Y   Y"      R888"  !   "*888888888"     "88888%       `Y"      
-          <  `"888888:    X"     "YP'                    ""           ^"***"`         "YP'                 
+          <:888888H.    `%88>  "88888%   ` "Y   Y"      R888"  !   "*888888888"     "88888%       `Y"      
+             `"888888:    X"     "YP'                    ""           ^"***"`         "YP'                 
                 %888888x.-`                                                                                 
                   ""**""  
  
