@@ -22,7 +22,6 @@ X888n. 8888X  ?888>  :888'8888.    Y888L     ''888E` '>    <88888X   '?8  :888'8
 [![Bluesky](https://img.shields.io/badge/-@vexi.gg-0285FF?style=flate-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/vexi.gg)
 [![Twitter](https://img.shields.io/badge/-@vexivox-1DA1F2?style=flate-square&logo=x&logoColor=white)](https://twitter.com/vexivox)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexiDev&layout=compact">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexiDev&layout=compact&theme=github_dark" alt="Top Languages">
 
 </div>
