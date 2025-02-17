@@ -17,7 +17,7 @@ X888n. 8888X  ?888>  :888'8888.    Y888L     ''888E` '>    <88888X   '?8  :888'8
          ""**""                                                                                    
 ```
 
-[![](https://img.shields.io/badge/I_will_make_this_a_real_site_soon_trust™-vexi.gg-darkgreen?style=flate-square)](https://vexi.dev)<br>
+[![](https://img.shields.io/badge/I_will_make_this_a_real_site_soon_trust™-vexi.dev-darkgreen?style=flate-square)](https://vexi.dev)<br>
 [![Discord](https://img.shields.io/badge/-@v3xi-5865F2?style=flate-square&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Bluesky](https://img.shields.io/badge/-@vexi.dev-0285FF?style=flate-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/vexi.dev)
 [![Twitter](https://img.shields.io/badge/-@vexivox-1DA1F2?style=flate-square&logo=x&logoColor=white)](https://twitter.com/vexivox)
